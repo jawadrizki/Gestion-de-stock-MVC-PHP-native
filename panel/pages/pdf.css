@@ -1,0 +1,40 @@
+
+table{
+    border-collapse: collapse;
+    margin: 2px;
+}
+table tr td,th{
+    border: 1px black solid;
+    padding:3px;
+}
+table thead th{
+    background-color: #f9f9f9;
+}
+#content{
+    top:220px;
+    margin: 0;
+}
+#logo{
+    width: 100px;
+    height:100px;
+    position: relative;
+    left:320px;
+}
+#titre{
+    position: absolute;
+    top:120px;
+    text-align: center;
+}
+#tab1{
+    position: relative;
+    width: 100%;
+}
+#tab2{
+    position: relative;
+    width: 100%;
+}
+#tab3{
+    position: relative;
+    width: 100%;
+}
+
